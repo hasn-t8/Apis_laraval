@@ -57,9 +57,9 @@ We welcome contributions to enhance the project. Please follow these steps to co
 
 ## Contact
 
-If you encounter any issues or have questions, please feel free to contact us at [email@example.com].
+If you encounter any issues or have questions, please feel free to contact us at hassantalha809@gmail.com.
 
 ## License
 
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Hassan Talha License - see the [LICENSE](LICENSE) file for details.
 
